@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Nuestro Universo 💜</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="sky">
+    <!-- Estrellas de fondo -->
+    <div class="bg-stars" id="bgStars"></div>
+
+    <!-- Título -->
+    <header class="header">
+      <h1>Nuestro Universo</h1>
+      <p>Toca las estrellas ✨</p>
+    </header>
+
+    <!-- Contenedor de estrellas -->
+    <div class="stars-container" id="starsContainer"></div>
+
+    <!-- Contador en vivo -->
+    <div class="counter-section">
+      <p class="counter-title">Llevamos juntos...</p>
+      <div class="counter-boxes">
+        <div class="counter-box">
+          <span class="counter-number" id="days">0</span>
+          <span class="counter-label">DÍAS</span>
+        </div>
+        <div class="counter-box">
+          <span class="counter-number" id="hours">0</span>
+          <span class="counter-label">HORAS</span>
+        </div>
+        <div class="counter-box">
+          <span class="counter-number" id="minutes">0</span>
+          <span class="counter-label">MIN</span>
+        </div>
+        <div class="counter-box">
+          <span class="counter-number" id="seconds">0</span>
+          <span class="counter-label">SEG</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal" id="modal">
+      <div class="modal-content">
+        <button class="close-btn" id="closeBtn">×</button>
+        <div class="modal-star" id="modalStar">⭐</div>
+        <p class="modal-text" id="modalText"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
