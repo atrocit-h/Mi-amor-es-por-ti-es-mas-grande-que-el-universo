@@ -5,16 +5,16 @@ const messages = [
   "Admiro muchísimo la persona que eres y todo lo que eres capaz de lograr.",
   "Nunca olvides que puedes con mucho más de lo que a veces crees.",
   "Cuando algo se ponga difícil, recuerda todo lo que ya has logrado superar.",
-  "No tienes que ser perfecta para que yo te ame. Te amo por ser completamente tú.",
+  "No tienes que ser perfecto para que yo te ame. Te amo por ser completamente tú.",
   "Amo tu forma de hacerme sonreír incluso cuando no estoy teniendo mi mejor día.",
   "Amo tus detalles, tus ocurrencias, tus palabras y hasta esas pequeñas cosas que quizá tú no notas.",
-  "Quiero que nunca dudes de lo valiosa que eres. Mereces sentirte orgullosa de ti misma.",
-  "Si alguna vez sientes que no puedes más, recuerda que no tienes que enfrentar todo sola.",
+  "Quiero que nunca dudes de lo valioso que eres. Mereces sentirte orgulloso de ti mismo.",
+  "Si alguna vez sientes que no puedes más, recuerda que no tienes que enfrentar todo solo.",
   "Voy a estar a tu lado para apoyarte, escucharte y celebrar cada uno de tus logros.",
   "Te amo por tu mente, tu corazón, tu forma de ser y por la persona que sigues construyendo cada día.",
   "Quiero verte cumplir tus sueños y estar ahí para decirte: ‘sabía que podías hacerlo’.",
   // Estrella especial (centro)
-  "Te quiero llenar de abrazos y besos todos los días y seguir agarrando fuerte tu mano en cualquier lugar mientras sonríes. Te quiero para crecer y soñar juntos en todo momento. Te amo aquí, allí y donde haga falta, porque amar es una decisión. Todos los días te quiero apoyar cuando lo necesites, ayudarte cuando no puedas más, y sacarte una sonrisa en ese día que más hace falta. Te quiero para compartir contigo toda mi vida. Y que nunca nos falten las ganas de seguir construyendo, de seguir, de continuar siendo el mejor equipo. Te quiero ver cumplir tus sueños, y ser tu admiradora #1."
+  "Te quiero llenar de abrazos y besos todos los días y seguir agarrando fuerte tu mano en cualquier lugar mientras sonríes. Te quiero para crecer y soñar juntos en todo momento. Te amo aquí, allí y donde haga falta, porque amar es una decisión. Todos los días te quiero apoyar cuando lo necesites, ayudarte cuando no puedas más, y sacarte una sonrisa en ese día que más hace falta. Te quiero para compartir contigo toda mi vida. Y que nunca nos falten las ganas de seguir construyendo, de seguir, de continuar siendo el mejor equipo. Te quiero ver cumplir tus sueños, y ser tu admirador #1."
 ];
 
 // Posiciones para celular
